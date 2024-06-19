@@ -66,3 +66,4 @@ All commands are run from the root of the project, from a terminal:
 
 Feel free to check [Astro documentation](https://docs.astro.build) or jump into Astro [Discord server](https://astro.build/chat).
 # simple-portfolio
+# simple-portfolio
